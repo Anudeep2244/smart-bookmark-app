@@ -11,7 +11,7 @@ instantly across multiple tabs --- fully deployed on Vercel.
 ## 🚀 Live Demo
 
 🌐 **Live App:** 
-https://smart-bookmark-app-wheat-iota.vercel.app/
+https://smart-bookmark-app-wheat-iota.vercel.app/ \
 📂 **GitHub Repository:**
 https://github.com/Anudeep2244/smart-bookmark-app
 
